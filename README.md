@@ -40,3 +40,5 @@ o	Model hanya mampu memprediksi lead_time dengan batasan 0 sampai dengan 296 har
 o	Model hanya mampu memprediksi stays_in_all_nights dengan batasan 0 sampai dengan 10 hari.<br>
 o	Model hanya mampu memprediksi adr dengan batasan €0 sampai dengan €227.<br>
 o	Model hanya mampu memprediksi total of special request dengan batasan 0 sampai dengan 3
+
+Link Tableau untuk data visualisasi: [Tableau](https://public.tableau.com/views/HotelBookings_16631504869120/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
